@@ -1,5 +1,7 @@
 .img-thumbnail {
     float: left;
-    width: 25%;
-    height: 350px;
+    width: 275px;
+    height: 275px;
+    overflow: hidden;
+    align-content: center;
   }
