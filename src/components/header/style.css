@@ -1,0 +1,15 @@
+.bg {
+    background: black;
+    background-image: url("https://czthomas.files.wordpress.com/2014/03/crumpled-white-paper-texture-melemel-jpeg_260159.jpg?w=810")
+  }
+  
+  .logo {
+    background: -webkit-linear-gradient(blue, navy);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 82px;
+  }
+  
+  .desc {
+    color: black;
+  }
